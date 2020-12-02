@@ -3,6 +3,7 @@ Este es un ejemplo de repos
 
 **negrilla**
 
-|nombre | Edad |
-|Luciano|  25  |
-|Damian |  30  |
+|  Nombre | Edad |
+|:-------:|:----:|
+| Luciano | 25   |
+| Damian  | 30   |
